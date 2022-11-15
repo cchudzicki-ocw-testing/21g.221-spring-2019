@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources
@@ -19,7 +20,7 @@ General resources:
 
 [Synthesis Writing (PDF)](https://canvas.uw.edu/files/28708927/download?download_frd=1) A guide written by Sandra Jamieson of Drew University.
 
-[Guide to Reading Social Science (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/content/resources/mit15_031js12_read_guide) A handout from an MIT management course taught by Prof. Richard Schmalensee.
+[Guide to Reading Social Science (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_read_guide) A handout from an MIT management course taught by Prof. Richard Schmalensee.
 
 [Academic Phrasebank: Referring to Sources](http://www.phrasebank.manchester.ac.uk/referring-to-sources/) A useful reference from the University of Manchester (UK).
 
